@@ -22,7 +22,7 @@ def data_clean_up(filename):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('Usage: python data_clean_up.py <filename>')
+        print('Usage: python data_clean_up_v1_2.py <filename>')
     
     else:
         data_clean_up(sys.argv[1])
