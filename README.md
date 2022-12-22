@@ -9,8 +9,8 @@ USAGE
 LIST OF FORMATTING CHANGES
 - "--" to an em dash
 - "@-" to an en dash
-- "###" to "<i>"
-- "#" to "</i>"
+- "###" to "&lt;i&gt;"
+- "#" to "&lt;/i&gt;"
 - Curly apostrophe to straight apostrophe
 - Curly quotes to straight quotes]
 - "â€¦" to an ellipsis
