@@ -16,6 +16,7 @@ LIST OF FORMATTING CHANGES
 - "â€¦" to an ellipsis
 
 PROGRAM STEPS
+- Collect the information from the command line call
 - Using pd.read_excel(), reads the contents of an excel file
 - Creat a copy of those contents
 - Using pandas' replace() method, replace outdated/bugged formatting with new methods in a specific order to not lose, overwrite, or ignore certain formatting choices
