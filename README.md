@@ -14,3 +14,11 @@ LIST OF FORMATTING CHANGES
 - Curly apostrophe to straight apostrophe
 - Curly quotes to straight quotes]
 - "â€¦" to an ellipsis
+
+PROGRAM STEPS
+- Using pd.read_excel(), reads the contents of an excel file
+- Creat a copy of those contents
+- Using pandas' replace() method, replace outdated/bugged formatting with new methods in a specific order to not lose, overwrite, or ignore certain formatting choices
+- Using pd.ExcelWriter(), write the edited data into a new excel file
+- Save that file
+- Print "Finished"
