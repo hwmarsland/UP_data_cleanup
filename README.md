@@ -1,4 +1,4 @@
-# UP_data_clean_up
+# University Press Data Cleanup
 DESCRIPTION
 - This program uses the pandas library in python to read the contents of an excel file, make some formatting changes and clean up outdated and bugged text formatting methods to their most recent HTML counterparts (as of summer 2022), then create a new copy of the original file that contains all of the updated formatting.
 
