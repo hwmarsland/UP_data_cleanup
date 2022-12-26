@@ -17,7 +17,7 @@ LIST OF FORMATTING CHANGES
 
 PROGRAM STEPS
 - Collect the information from the command line call
-- Using pd.read_excel(), reads the contents of an excel file
+- Using pd.read_excel(), reads the contents of the provided excel file
 - Creat a copy of those contents
 - Using pandas' replace() method, replace outdated/bugged formatting with new methods in a specific order to not lose, overwrite, or ignore certain formatting choices
 - Using pd.ExcelWriter(), write the edited data into a new excel file
